@@ -1,0 +1,18 @@
+body{
+    background-color: lightgreen;
+    text-align: center;
+    background-image :url(images/bg.jpeg);
+    background-repeat:no-repeat;
+    background-size: cover;
+}
+h1{
+    color:rgb(67, 48, 231);
+}
+h2{
+    color: #006767;
+}
+img{
+    width: 100px;
+    height: 100px;
+
+}
